@@ -2,6 +2,8 @@
 Clyde’s Simple Shuffler Encryption.
 Encryption which requires two keys to encrypt and decrypt. First key is used to encode the message, second, shifts each encrypted character according to each single digit in the key.
 
+You can find the javascript version [here](https://github.com/csmets/csscrypt-js).
+
 ## How to use
 ```python
 shiftKey = '3453465'
